@@ -1,0 +1,27 @@
+{
+  "name": "jeremy-s-bot",
+  "version": "1.0.0",
+  "description": "bot para whatsapp mio",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+    "start": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jelcrack947/Jeremy-s-Bot.git"
+  },
+  "keywords": [
+    "chatbot",
+    "Jeremy",
+    "Whatsapp",
+    "Grupo",
+    "Bot"
+  ],
+  "author": "jelcrack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jelcrack947/Jeremy-s-Bot/issues"
+  },
+  "homepage": "https://github.com/jelcrack947/Jeremy-s-Bot#readme"
+}
